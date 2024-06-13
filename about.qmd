@@ -1,5 +1,9 @@
 ---
 title: "About"
 ---
+## About Me
 
-Ivy Spratt
+My name is **Ivy Spratt**, and I am a student in *high school*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
