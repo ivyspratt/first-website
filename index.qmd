@@ -1,5 +1,5 @@
 ---
-title: "."
+title: "A New Website, second edition"
 ---
 
 This is a Quarto website.
